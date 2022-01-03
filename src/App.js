@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+meimport logo from './logo.svg';
 import './App.css';
 
 function App() {
@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Welcome to Automate the workflow using GitHub Actions
         </p>
         <a
           className="App-link"
