@@ -18,7 +18,7 @@ function App() {
           Learn React
         </a>
 
-        <a href="name.html"> Team </a>
+       
       </header>
     </div>
   );
