@@ -6,8 +6,8 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-    
-         <h1 class="center">Welcome to the world of Automation</h1>
+      <center>
+         <h1 >Welcome to the world of Automation</h1>
 
     
         <p>
@@ -15,13 +15,13 @@ function App() {
         </p>
 
         <h5>Objective:</h5>
-      <p>
+         <p>
             To Design, Develop and Deploy a web application using GitHub actions on a cloud service.
 
-      </p>
-      
-
+         </p>
+     
        <a href="name.html">Teams</a>
+      </center>
     </header>
   </div>
   );
