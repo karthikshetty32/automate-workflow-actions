@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-      <center>
+      
          <h1 >Welcome to the world of Automation</h1>
 
     
@@ -21,7 +21,7 @@ function App() {
          </p>
      
        <a href="name.html">Teams</a>
-      </center>
+     
     </header>
   </div>
   );
