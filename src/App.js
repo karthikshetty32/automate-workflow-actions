@@ -19,7 +19,16 @@ function App() {
             To Design, Develop and Deploy a web application using GitHub actions on a cloud service.
 
          </p>
-     
+
+     <a
+          className="App-link"
+          href="https://reactjs.org"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Learn React
+       </a>
+
        <a href="name.html">Teams</a>
      
     </header>
