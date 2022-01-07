@@ -6,17 +6,20 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+    
+         <h1 class="center">Welcome to the world of Automation</h1>
+
+    
         <p>
           Hello KARTHIK SHETTY AND MANJUNATHA 
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-       </a>
+
+        <h5>Objective:</h5>
+      <p>
+            To Design, Develop and Deploy a web application using GitHub actions on a cloud service.
+
+      </p>
+      
 
        <a href="name.html">Teams</a>
     </header>
