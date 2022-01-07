@@ -21,7 +21,11 @@ GitHub Actions is an excellent addition to the suite of features available on Gi
 GitHub actions allow us to automate the workflow and help resolve the issues in the code quickly.
          </p>
 
+<p>Addition change by member 2</p>
+
+
         <p>Addtion by member 1 </p>
+
 
      <a
           className="App-link"
