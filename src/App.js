@@ -16,9 +16,21 @@ function App() {
 
         <h5>Objective:</h5>
          <p>
+
          To Design, Develop and Deploy a web application using GitHub actions on a cloud service.
 
+
+            To Design, Develop and Deploy a web application using GitHub actions on a cloud service.
+GitHub Actions is an excellent addition to the suite of features available on GitHub. It enables us to automate our development tasks and visualize how they run, all within GitHub. 
+GitHub actions allow us to automate the workflow and help resolve the issues in the code quickly.
+
          </p>
+
+<p>Addition change by member 2</p>
+
+
+        <p>Addtion by member 1 </p>
+
 
      <a
           className="App-link"
