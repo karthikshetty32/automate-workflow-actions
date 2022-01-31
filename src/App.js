@@ -16,7 +16,7 @@ function App() {
 
         <h5>Objective:</h5>
          <p>
-            To Design, Develop and Deploy a web application using GitHub actions on a cloud service.
+         To Design, Develop and Deploy a web application using GitHub actions on a cloud service.
 
          </p>
 
