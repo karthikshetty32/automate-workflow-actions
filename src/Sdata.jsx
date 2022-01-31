@@ -18,22 +18,7 @@ const Sdata = [
     imgsrc: course3,
     title: "Embedded Systems",
   },
-  {
-    imgsrc: course4,
-    title: "AI & ML",
-  },
-  {
-    imgsrc: course5,
-    title: "Digital Marketing",
-  },
-  {
-    imgsrc: course6,
-    title: "Big Data",
-  },
-  {
-    imgsrc: course6,
-    title: "Big big Data and CDC",
-  },
+  
 ];
 
 export default Sdata;
