@@ -25,6 +25,7 @@ const Sdata = [
   {
     imgsrc: course5,
     title: "Digital Marketing",
+  },
   {
     imgsrc: course6,
     title: "Big Data",
